@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinioSample", "MinioSample.csproj", "{3204B0B6-D99D-4052-8D33-D66DE9ED1E27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3204B0B6-D99D-4052-8D33-D66DE9ED1E27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3204B0B6-D99D-4052-8D33-D66DE9ED1E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3204B0B6-D99D-4052-8D33-D66DE9ED1E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3204B0B6-D99D-4052-8D33-D66DE9ED1E27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {625D4495-20BE-4424-831C-5990D5A8B240}
+	EndGlobalSection
+EndGlobal
